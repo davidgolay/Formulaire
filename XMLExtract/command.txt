@@ -1,0 +1,6 @@
+
+//connexion à la bdd
+$ mysql -u root -p
+
+//extraction en xml
+mysql -u db_user -p db_name --xml -e "SELECT * FROM table_name" > table_name.xml
