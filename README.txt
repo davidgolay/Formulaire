@@ -1,21 +1,6 @@
-<b> ⚠️ Ce projet a été dévelloppé dans un cadre pédagogique lors du notre 3ème semestre à l'IUT Informatique de Dijon-Auxerre.
-In sagit d'un TP réalisé en 12 heures. </b>
+<h2> ❓ Qu'est ce qu'Ub'Covoit ❓ </h2>
 
-<br/><br/>
- 
-<h2> 🖱️ Les technologies utilisées </h2>
-  </br>
-<b> ➡️ Langages: </b> MySql, PHP, HTML, CSS <br/>
-<b> ➡️ Temps de travail: </b> 12 heures <br/>
-<b> ➡️ Environnement: </b> PHPStorm, Visual Studio Code, Linux, SQL Workbench, PhpMyAdmin
-<br/>
-<br/><br/>
-
-# Les fonctionnalités principales
-
-<h2> Création de stage </h2>
-Il sagit d'un formulaire pour qu'un moniteur créé un stage (en base de donnée)
-Le code n'est pas optimisé, il sagit d'un proof of concept dasn le cadre d'un TP pour s'entrainer sur l'interaction formulaire et base de donnée
-• Gestion d'exception lié à la connexion et à l'insertion dans une base de donnée
-
-
+Ub’Covoit est une plateforme de mise en relation des étudiants inscrits à l’U.B dans le
+cadre du <b>covoiturage</b>. Ub’Covoit donne deux possibilités primaires à ses utilisateurs. Ils peuvent <b>proposer un
+trajet et/ou rechercher un trajet</b>. Les utilisateurs auront la possibilité de communiquer
+entre eux directement sur la plateforme.
