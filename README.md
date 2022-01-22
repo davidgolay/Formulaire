@@ -15,8 +15,9 @@ Il sagit d'un formulaire pour qu'un moniteur créé un stage (en base de donnée
       <img src="Demo-Site.gif" width="800">
  </p>
 
-<h2> Les fonctionnalités principales </h2>
-Le code n'a pas vocation à être optimisé, il sagit d'un proof of concept dans le cadre d'un TP pour s'entrainer sur l'interaction formulaire et base de donnée.
+<h2> Note </h2>
+• Génération d'un objet formulaire <br/>
+• Hydratation d'un formulaire PHP <br/>
 • Gestion d'exception lié à la connexion et à l'insertion dans une base de donnée <br/>
 • Gestion des champs vides <br/>
 • Style graphique <br/>
