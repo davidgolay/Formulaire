@@ -1,9 +1,16 @@
 <b> ⚠️ Ce projet a été dévelloppé dans un cadre pédagogique lors du notre 3ème semestre à l'IUT Informatique de Dijon-Auxerre.
 Il sagit d'un TP réalisé en 12 heures. 
-Il sagit d'un formulaire pour qu'un moniteur créé un stage (en base de donnée).</b>
+Il sagit d'un formulaire pour qu'un moniteur pouisse créer un stage (en base de donnée).</b>
+
+• Génération d'un objet formulaire: <code>echo $form->__ToString()</code>
+<br/>
+• Hydratation d'un formulaire PHP: <code> $form->Hydrate($_POST);</code><br/>
+• Gestion d'exception lié à la connexion et à l'insertion dans une base de donnée <br/>
+• Gestion des champs vides <br/>
+• Design graphique <br/>
+
 
 <h2> 🖱️ Les technologies utilisées </h2>
-  </br>
 <b> ➡️ Langages: </b> MySql, PHP, HTML, CSS <br/>
 <b> ➡️ Temps de travail: </b> 12 heures <br/>
 <b> ➡️ Environnement: </b> PHPStorm, Visual Studio Code, Linux, SQL Workbench, PhpMyAdmin <br/>
@@ -15,10 +22,5 @@ Il sagit d'un formulaire pour qu'un moniteur créé un stage (en base de donnée
       <img src="Demo-Site.gif" width="800">
  </p>
 
-<h2> Note </h2>
-• Génération d'un objet formulaire <br/>
-• Hydratation d'un formulaire PHP <br/>
-• Gestion d'exception lié à la connexion et à l'insertion dans une base de donnée <br/>
-• Gestion des champs vides <br/>
-• Style graphique <br/>
+
 
